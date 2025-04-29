@@ -31,6 +31,7 @@ It helps users manage their to-dos efficiently with an intuitive and clean UI.
 
 ## 🖼️ Screenshots
 ![image alt](https://github.com/kaif-2407/Task-Managenet/blob/ce4546652d40b45a1f500ef10cdd472f5f9c0636/Screenshot%202025-04-29%20182436.png)
+![image alt](https://github.com/kaif-2407/Task-Managenet/blob/8dfe05509be114d6c575a829fb1a4f45fc5f5184/Screenshot%202025-04-29%20182511.png)
 
 > Add your screenshots in an `images/` folder in the project and update the links below:
 
